@@ -1,126 +1,82 @@
-# 🚀 CDC FUTURO CRIPTO | PRO ELITE
+# CDC FUTURO-PRO · Tutorial interactivo
 
-**Creador:** Juan Pablo Ortiz Ortuño  
-**Ubicación:** Santa Cruz, Bolivia  
-**TikTok:** [@chicodelascomputadoras](https://www.tiktok.com/@chicodelascomputadoras)  
+Guía paso a paso para aprender a usar **CDC FUTURO-PRO**, un escáner de criptomonedas para **futuros USDT-M de Binance** que detecta monedas en techo, mide la probabilidad de caída con EMAs y un cerebro neuronal, y permite practicar en **paper trading** antes de usar dinero real.
 
----
+- 🧠 **Tutorial interactivo:** https://juanpabloortizortuno-web.github.io/TUTORIAL-CDC/
+- 📡 **Abrir la herramienta (10 usos gratis):** https://juanpabloortizortuno-web.github.io/cripto-pro/
+- 🎵 **TikTok:** [@cdcfuturopro](https://www.tiktok.com/@cdcfuturopro)
+- 💬 **WhatsApp:** [+591 77244375](https://wa.me/59177244375)
 
-## 📖 Descripción General
+## Qué aprenderás
 
-**CDC FUTURO CRIPTO** es una herramienta avanzada de **monitoreo de criptomonedas en tiempo real**.  
-Su objetivo es ayudar a los traders y entusiastas a identificar rápidamente **oportunidades de mercado** en Binance, mostrando:
+1. Abrir el CDC y practicar en simulación (paper trading).
+2. Activar SHORT y buscar candidatas (DORADO, BOMBA, BANDERA, PUMP cayendo).
+3. Leer la fila de la moneda: % de cambio, advertencias, CONFIRMADA y Stop sugerido.
+4. Confirmar con las EMAs (rápida encima de la lenta en el pico).
+5. Revisar el contexto de BTC y ETH.
+6. Entrar en Binance con reglas: USDT-M, orden de mercado, 1X aislado, solo el 25 % del capital.
+7. Poner el stop y calcular cuánto arriesgas.
 
-- Monedas que suben más del **15% en las últimas 48 horas**.  
-- Porcentaje que le falta a cada moneda para llegar a su **máximo de 24 horas**.  
-- Volumen de operación de cada moneda.  
-- Accesos directos a Binance Web y App (iOS y Android).  
-- Sistema de **licencia PRO** para desbloquear todas las funciones.  
-
----
-
-## 🎯 Funcionalidades Principales
+## Qué hace CDC FUTURO-PRO
 
 | Función | Descripción |
-|---------|------------|
-| 💹 **Escaneo de mercado** | Analiza todos los pares USDT de Binance **Spot y Futuros**. |
-| 📈 **Monedas destacadas** | Filtra y ordena por mayor subida en 48 horas. |
-| 🔍 **Detalles de moneda** | Precio, cambio 24H, máximo/mínimo 24H, volumen y porcentaje faltante al máximo. |
-| 🛡️ **Licencia PRO** | 10 usos gratis, después requiere licencia única generada por el creador. |
-| 📱 **Accesos directos** | Binance Web, App iOS y App Android con un clic. |
-| 🟢🔴 **Interfaz intuitiva** | Colores para ganancias (verde), alertas (naranja/rojo). |
-| 📦 **PWA compatible** | Instalable en dispositivos móviles. |
-| 📞 **Contacto directo** | Botón de WhatsApp integrado con el creador. |
+| --- | --- |
+| 📡 Escáner en vivo | Revisa más de 500 monedas de futuros y se actualiza cada pocos segundos. |
+| 🧠 Cerebro neuronal | Estima la probabilidad de caída. Es una probabilidad, no una promesa. |
+| 📈 EMAs y rango | EMA7, EMA25, EMA99, posición en el rango de 24 h y flujo de compras y ventas. |
+| 🛡️ Stop sugerido | Cada fila muestra un nivel de stop para cuidar el riesgo. |
+| 🧪 Paper trading | Simula operaciones sin arriesgar dinero. |
+| 🔗 BTC y ETH | Muestra la correlación como contexto de mercado. |
 
----
+## Preguntas frecuentes
 
-## ⚙️ Cómo Funciona
+**¿Qué IA sirve para hacer trading de criptomonedas?**  
+Hay varias herramientas. CDC FUTURO-PRO es un escáner con un cerebro neuronal de probabilidad: te ayuda a leer el mercado, pero la decisión es tuya.
 
-1. Abrir `index.html` en cualquier navegador moderno.  
-2. La app escanea todos los pares USDT de Binance (Spot + Futuros).  
-3. Se muestran solo monedas con **+15% en 48h**, ordenadas de mayor a menor.  
-4. Al hacer clic en una moneda, se despliega:  
-   - Precio actual  
-   - Cambio en 24 horas  
-   - Subida en 48 horas  
-   - Máx/Mín 24H  
-   - Porcentaje faltante al máximo  
-   - Volumen en millones de USDT  
-   - Botones para abrir en Binance Web/App  
+**¿Cuál es el mejor bot de trading para Binance?**  
+No hay uno mejor para todos. Desconfía de cualquier herramienta que pida tu clave secreta de Binance o prometa ganancias. CDC FUTURO-PRO no opera por ti: muestra señales.
 
-5. Usuarios sin licencia PRO:  
-   - Solo 10 clics gratuitos.  
-   - Después deben activar licencia PRO para continuar.  
+**¿Hay una IA que prediga el precio de Bitcoin?**  
+Ninguna puede predecirlo con certeza. Las herramientas serias dan probabilidades, y eso es lo que muestra el cerebro neuronal del CDC.
 
-6. Licencias PRO:  
-   - Código único generado por `license-generator.html` (solo el creador puede usarlo).  
-   - No repetible ni compartible entre dispositivos.  
-   - Desbloquea todas las funciones.  
+**¿Existe un bot de trading gratis?**  
+CDC FUTURO-PRO tiene 10 usos gratis para probarlo. Después se activa una licencia VIP con el creador.
 
----
+**¿Cómo ganar USDT todos los días?**  
+No existe una forma segura. En trading puedes ganar o perder. Lo razonable es practicar en simulación, usar stop y arriesgar poco capital.
 
-## 🗂️ Estructura del Repositorio
+**¿Cuánto se puede ganar con futuros en Binance?**  
+Depende de tu capital, tu disciplina y el mercado. También puedes perder todo lo que pusiste. No existe un monto garantizado.
 
-=======
-# 🚀 CDC FUTURO CRIPTO | PRO ELITE
+**¿Dónde encontrar señales de futuros gratis?**  
+CDC FUTURO-PRO muestra señales de techo y caída gratis durante tus 10 usos de prueba. Son probabilidades, no órdenes de comprar o vender.
 
-**Creador:** Juan Pablo Ortiz Ortuño  
-**Ubicación:** Santa Cruz, Bolivia  
-**TikTok:** [@chicodelascomputadoras](https://www.tiktok.com/@chicodelascomputadoras)  
+**¿Cómo hacer short en Binance?**  
+En futuros USDT-M abres una posición de venta (short): ganas si el precio baja y pierdes si sube. Usa 1X, margen aislado y siempre un stop.
 
----
+**¿Cuál es la mejor estrategia con EMAs?**  
+No hay una mejor. Una regla común es esperar que la EMA rápida esté encima de la lenta en el pico y confirmar la caída antes de entrar en short.
 
-## 📖 Descripción General
+**¿Cómo practicar trading sin arriesgar dinero?**  
+Con paper trading (simulación). CDC FUTURO-PRO lo incluye para probar las señales con dinero ficticio.
 
-**CDC FUTURO CRIPTO** es una herramienta avanzada de **monitoreo de criptomonedas en tiempo real**.  
-Su objetivo es ayudar a los traders y entusiastas a identificar rápidamente **oportunidades de mercado** en Binance, mostrando:
+**¿Qué es el apalancamiento y cómo evito que me liquiden?**  
+Es operar con más dinero del que tienes. Con 1X, margen aislado y un stop el riesgo de liquidación baja, pero no desaparece.
 
-- Monedas que suben más del **15% en las últimas 48 horas**.  
-- Porcentaje que le falta a cada moneda para llegar a su **máximo de 24 horas**.  
-- Volumen de operación de cada moneda.  
-- Accesos directos a Binance Web y App (iOS y Android).  
-- Sistema de **licencia PRO** para desbloquear todas las funciones.  
+**¿Los bots de trading son una estafa?**  
+Muchos prometen ganancias fijas, y eso es una señal de alerta. Desconfía de quien garantice resultados o te pida depositar dinero con él.
 
----
+**¿Garantiza ganancias el CDC FUTURO-PRO?**  
+No. Son señales de probabilidad: no aseguran que el precio suba ni baje.
 
-## 🎯 Funcionalidades Principales
+**¿Necesito instalar algo?**  
+No. Funciona en el navegador, en celular o computadora.
 
-| Función | Descripción |
-|---------|------------|
-| 💹 **Escaneo de mercado** | Analiza todos los pares USDT de Binance **Spot y Futuros**. |
-| 📈 **Monedas destacadas** | Filtra y ordena por mayor subida en 48 horas. |
-| 🔍 **Detalles de moneda** | Precio, cambio 24H, máximo/mínimo 24H, volumen y porcentaje faltante al máximo. |
-| 🛡️ **Licencia PRO** | 10 usos gratis, después requiere licencia única generada por el creador. |
-| 📱 **Accesos directos** | Binance Web, App iOS y App Android con un clic. |
-| 🟢🔴 **Interfaz intuitiva** | Colores para ganancias (verde), alertas (naranja/rojo). |
-| 📦 **PWA compatible** | Instalable en dispositivos móviles. |
-| 📞 **Contacto directo** | Botón de WhatsApp integrado con el creador. |
+## ⚠️ Aviso de riesgo
 
----
+Operar con criptomonedas y futuros implica un riesgo alto de pérdida. Esta herramienta y esta guía son educativas y de apoyo al análisis; **no son asesoría financiera** ni prometen ganancias. Con margen aislado pierdes como máximo el margen de esa operación, y sin stop puedes perderlo entero. Nunca operes con dinero que no puedas perder.
 
-## ⚙️ Cómo Funciona
+## Autor
 
-1. Abrir `index.html` en cualquier navegador moderno.  
-2. La app escanea todos los pares USDT de Binance (Spot + Futuros).  
-3. Se muestran solo monedas con **+15% en 48h**, ordenadas de mayor a menor.  
-4. Al hacer clic en una moneda, se despliega:  
-   - Precio actual  
-   - Cambio en 24 horas  
-   - Subida en 48 horas  
-   - Máx/Mín 24H  
-   - Porcentaje faltante al máximo  
-   - Volumen en millones de USDT  
-   - Botones para abrir en Binance Web/App  
-
-5. Usuarios sin licencia PRO:  
-   - Solo 10 clics gratuitos.  
-   - Después deben activar licencia PRO para continuar.  
-
-6. Licencias PRO:  
-   - Código único generado por `license-generator.html` (solo el creador puede usarlo).  
-   - No repetible ni compartible entre dispositivos.  
-   - Desbloquea todas las funciones.  
-
----
-
-## 🗂️ Estructura del Repositorio
+**Juan Pablo Ortiz Ortuño** · Santa Cruz de la Sierra, Bolivia · Proyecto Tecnoman
+© CDC FUTURO-PRO. Todos los derechos reservados.
